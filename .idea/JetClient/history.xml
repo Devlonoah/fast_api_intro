@@ -1,0 +1,2296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="History">
+    <option name="requestHistoryStates">
+      <list>
+        <requestHistoryState>
+          <option name="dateTime" value="1711359557171" />
+          <option name="id" value="e40afeeb-5783-4478-a12f-b626cdaf2aee" />
+          <option name="request">
+            <requestState>
+              <option name="auth">
+                <authState>
+                  <option name="type" value="NO_AUTH" />
+                </authState>
+              </option>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;&#9;&#9;&quot;first_name&quot;: &quot;Jamila&quot;,&#10;&#9;&#9;&quot;last_name&quot;: &quot;Ahmed&quot;,&#10;&#9;&#9;&quot;gender&quot;: &quot;female&quot;,&#10;&#9;&#9;&quot;roles&quot;: [&#10;&#9;&#9;&#9;&quot;student&quot;&#10;&#9;&#9;]&#10;&#9;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="99702b05-e4ee-4af0-8813-b8bac796a05c" />
+              <option name="method" value="POST" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:8000/api/v1/users" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJkZXRhaWwiOiJOb3QgRm91bmQifQ==" />
+              <option name="bodyString" value="{&#10;  &quot;detail&quot; : &quot;Not Found&quot;&#10;}" />
+              <option name="code" value="404" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Mon, 25 Mar 2024 09:39:16 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="server" />
+                    <option name="value" value="uvicorn" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="22" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="e40afeeb-5783-4478-a12f-b626cdaf2aee" />
+              <option name="message" value="Not Found" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;detail&quot;:&quot;Not Found&quot;}" />
+              <option name="size" value="22" />
+              <option name="time" value="1" />
+            </responseState>
+          </option>
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1711359567086" />
+          <option name="id" value="3b08c95d-a70f-4504-bf6b-69b82e82915e" />
+          <option name="request">
+            <requestState>
+              <option name="auth">
+                <authState>
+                  <option name="type" value="NO_AUTH" />
+                </authState>
+              </option>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;&#9;&#9;&quot;first_name&quot;: &quot;Jamila&quot;,&#10;&#9;&#9;&quot;last_name&quot;: &quot;Ahmed&quot;,&#10;&#9;&#9;&quot;gender&quot;: &quot;female&quot;,&#10;&#9;&#9;&quot;roles&quot;: [&#10;&#9;&#9;&#9;&quot;student&quot;&#10;&#9;&#9;]&#10;&#9;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="99702b05-e4ee-4af0-8813-b8bac796a05c" />
+              <option name="method" value="POST" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:8000/api/v1/users" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJkZXRhaWwiOiJOb3QgRm91bmQifQ==" />
+              <option name="bodyString" value="{&#10;  &quot;detail&quot; : &quot;Not Found&quot;&#10;}" />
+              <option name="code" value="404" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Mon, 25 Mar 2024 09:39:26 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="server" />
+                    <option name="value" value="uvicorn" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="22" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="3b08c95d-a70f-4504-bf6b-69b82e82915e" />
+              <option name="message" value="Not Found" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;detail&quot;:&quot;Not Found&quot;}" />
+              <option name="size" value="22" />
+              <option name="time" value="1" />
+            </responseState>
+          </option>
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1711359585722" />
+          <option name="id" value="c08fbe69-2aa9-40bc-8993-da49f304858d" />
+          <option name="request">
+            <requestState>
+              <option name="auth">
+                <authState>
+                  <option name="type" value="NO_AUTH" />
+                </authState>
+              </option>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;&#9;&#9;&quot;first_name&quot;: &quot;Jamila&quot;,&#10;&#9;&#9;&quot;last_name&quot;: &quot;Ahmed&quot;,&#10;&#9;&#9;&quot;gender&quot;: &quot;female&quot;,&#10;&#9;&#9;&quot;roles&quot;: [&#10;&#9;&#9;&#9;&quot;student&quot;&#10;&#9;&#9;]&#10;&#9;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="99702b05-e4ee-4af0-8813-b8bac796a05c" />
+              <option name="method" value="POST" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:8000/api/v1/users" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJkZXRhaWwiOiJOb3QgRm91bmQifQ==" />
+              <option name="bodyString" value="{&#10;  &quot;detail&quot; : &quot;Not Found&quot;&#10;}" />
+              <option name="code" value="404" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Mon, 25 Mar 2024 09:39:45 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="server" />
+                    <option name="value" value="uvicorn" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="22" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="c08fbe69-2aa9-40bc-8993-da49f304858d" />
+              <option name="message" value="Not Found" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;detail&quot;:&quot;Not Found&quot;}" />
+              <option name="size" value="22" />
+              <option name="time" value="1" />
+            </responseState>
+          </option>
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1711359593554" />
+          <option name="id" value="75e5eafc-d5c6-446c-b794-eac8f889d313" />
+          <option name="request">
+            <requestState>
+              <option name="auth">
+                <authState>
+                  <option name="type" value="NO_AUTH" />
+                </authState>
+              </option>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;&#9;&#9;&quot;first_name&quot;: &quot;Jamila&quot;,&#10;&#9;&#9;&quot;last_name&quot;: &quot;Ahmed&quot;,&#10;&#9;&#9;&quot;gender&quot;: &quot;female&quot;,&#10;&#9;&#9;&quot;roles&quot;: [&#10;&#9;&#9;&#9;&quot;student&quot;&#10;&#9;&#9;]&#10;&#9;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="disabled" value="true" />
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="99702b05-e4ee-4af0-8813-b8bac796a05c" />
+              <option name="method" value="POST" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:8000/api/v1/users" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJkZXRhaWwiOiJOb3QgRm91bmQifQ==" />
+              <option name="bodyString" value="{&#10;  &quot;detail&quot; : &quot;Not Found&quot;&#10;}" />
+              <option name="code" value="404" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Mon, 25 Mar 2024 09:39:52 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="server" />
+                    <option name="value" value="uvicorn" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="22" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="75e5eafc-d5c6-446c-b794-eac8f889d313" />
+              <option name="message" value="Not Found" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;detail&quot;:&quot;Not Found&quot;}" />
+              <option name="size" value="22" />
+              <option name="time" value="1" />
+            </responseState>
+          </option>
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1711359596653" />
+          <option name="id" value="82d53da2-8234-43d4-8f06-187c5aa89e80" />
+          <option name="request">
+            <requestState>
+              <option name="auth">
+                <authState>
+                  <option name="type" value="NO_AUTH" />
+                </authState>
+              </option>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;&#9;&#9;&quot;first_name&quot;: &quot;Jamila&quot;,&#10;&#9;&#9;&quot;last_name&quot;: &quot;Ahmed&quot;,&#10;&#9;&#9;&quot;gender&quot;: &quot;female&quot;,&#10;&#9;&#9;&quot;roles&quot;: [&#10;&#9;&#9;&#9;&quot;student&quot;&#10;&#9;&#9;]&#10;&#9;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="99702b05-e4ee-4af0-8813-b8bac796a05c" />
+              <option name="method" value="POST" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:8000/api/v1/users" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJkZXRhaWwiOiJOb3QgRm91bmQifQ==" />
+              <option name="bodyString" value="{&#10;  &quot;detail&quot; : &quot;Not Found&quot;&#10;}" />
+              <option name="code" value="404" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Mon, 25 Mar 2024 09:39:55 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="server" />
+                    <option name="value" value="uvicorn" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="22" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="82d53da2-8234-43d4-8f06-187c5aa89e80" />
+              <option name="message" value="Not Found" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;detail&quot;:&quot;Not Found&quot;}" />
+              <option name="size" value="22" />
+              <option name="time" value="2" />
+            </responseState>
+          </option>
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1711359626673" />
+          <option name="id" value="2a3b21b4-847d-48bf-99c8-d76328b6b198" />
+          <option name="request">
+            <requestState>
+              <option name="auth">
+                <authState>
+                  <option name="type" value="NO_AUTH" />
+                </authState>
+              </option>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;&#9;&#9;&quot;first_name&quot;: &quot;Jamila&quot;,&#10;&#9;&#9;&quot;last_name&quot;: &quot;Ahmed&quot;,&#10;&#9;&#9;&quot;gender&quot;: &quot;female&quot;,&#10;&#9;&#9;&quot;roles&quot;: [&#10;&#9;&#9;&#9;&quot;student&quot;&#10;&#9;&#9;]&#10;&#9;}" />
+                  <option name="type" value="PLAIN" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="text/plain" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="99702b05-e4ee-4af0-8813-b8bac796a05c" />
+              <option name="method" value="POST" />
+              <option name="name" value="save user" />
+              <option name="url" value="http://localhost:8000/api/v1/users" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJkZXRhaWwiOiJOb3QgRm91bmQifQ==" />
+              <option name="bodyString" value="{&#10;  &quot;detail&quot; : &quot;Not Found&quot;&#10;}" />
+              <option name="code" value="404" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Mon, 25 Mar 2024 09:40:26 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="server" />
+                    <option name="value" value="uvicorn" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="22" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="2a3b21b4-847d-48bf-99c8-d76328b6b198" />
+              <option name="message" value="Not Found" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;detail&quot;:&quot;Not Found&quot;}" />
+              <option name="size" value="22" />
+              <option name="time" value="2" />
+            </responseState>
+          </option>
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1711359653274" />
+          <option name="id" value="b27d28e0-393e-4744-ba26-699c6823e291" />
+          <option name="request">
+            <requestState>
+              <option name="auth">
+                <authState>
+                  <option name="type" value="NO_AUTH" />
+                </authState>
+              </option>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;&#9;&#9;&quot;first_name&quot;: &quot;Jamila&quot;,&#10;&#9;&#9;&quot;last_name&quot;: &quot;Ahmed&quot;,&#10;&#9;&#9;&quot;gender&quot;: &quot;female&quot;,&#10;&#9;&#9;&quot;roles&quot;: [&#10;&#9;&#9;&#9;&quot;student&quot;&#10;&#9;&#9;]&#10;&#9;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="99702b05-e4ee-4af0-8813-b8bac796a05c" />
+              <option name="method" value="POST" />
+              <option name="name" value="save user" />
+              <option name="url" value="http://localhost:8000/api/v1/users" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJkZXRhaWwiOiJOb3QgRm91bmQifQ==" />
+              <option name="bodyString" value="{&#10;  &quot;detail&quot; : &quot;Not Found&quot;&#10;}" />
+              <option name="code" value="404" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Mon, 25 Mar 2024 09:40:53 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="server" />
+                    <option name="value" value="uvicorn" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="22" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="b27d28e0-393e-4744-ba26-699c6823e291" />
+              <option name="message" value="Not Found" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;detail&quot;:&quot;Not Found&quot;}" />
+              <option name="size" value="22" />
+              <option name="time" value="1" />
+            </responseState>
+          </option>
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1711359672891" />
+          <option name="id" value="53974ea4-1069-4cae-b101-9fbd3d4268c2" />
+          <option name="request">
+            <requestState>
+              <option name="auth">
+                <authState>
+                  <option name="type" value="NO_AUTH" />
+                </authState>
+              </option>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;&#9;&#9;&quot;first_name&quot;: &quot;Jamila&quot;,&#10;&#9;&#9;&quot;last_name&quot;: &quot;Ahmed&quot;,&#10;&#9;&#9;&quot;gender&quot;: &quot;female&quot;,&#10;&#9;&#9;&quot;roles&quot;: [&#10;&#9;&#9;&#9;&quot;student&quot;&#10;&#9;&#9;]&#10;&#9;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="99702b05-e4ee-4af0-8813-b8bac796a05c" />
+              <option name="method" value="POST" />
+              <option name="name" value="save user" />
+              <option name="url" value="http://localhost:8000/api/v1/users" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJkZXRhaWwiOiJOb3QgRm91bmQifQ==" />
+              <option name="bodyString" value="{&#10;  &quot;detail&quot; : &quot;Not Found&quot;&#10;}" />
+              <option name="code" value="404" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Mon, 25 Mar 2024 09:41:11 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="server" />
+                    <option name="value" value="uvicorn" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="22" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="53974ea4-1069-4cae-b101-9fbd3d4268c2" />
+              <option name="message" value="Not Found" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;detail&quot;:&quot;Not Found&quot;}" />
+              <option name="size" value="22" />
+              <option name="time" value="1" />
+            </responseState>
+          </option>
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1711359748889" />
+          <option name="id" value="971cdf57-37d4-4409-95e9-7c12bc5d43b1" />
+          <option name="request">
+            <requestState>
+              <option name="auth">
+                <authState>
+                  <option name="type" value="NO_AUTH" />
+                </authState>
+              </option>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;&#9;&#9;&quot;first_name&quot;: &quot;Jamila&quot;,&#10;&#9;&#9;&quot;last_name&quot;: &quot;Ahmed&quot;,&#10;&#9;&#9;&quot;gender&quot;: &quot;female&quot;,&#10;&#9;&#9;&quot;roles&quot;: [&#10;&#9;&#9;&#9;&quot;student&quot;&#10;&#9;&#9;]&#10;&#9;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="99702b05-e4ee-4af0-8813-b8bac796a05c" />
+              <option name="method" value="POST" />
+              <option name="name" value="save user" />
+              <option name="url" value="http://localhost:8000/api/v1/users" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJkZXRhaWwiOiJNZXRob2QgTm90IEFsbG93ZWQifQ==" />
+              <option name="bodyString" value="{&#10;  &quot;detail&quot; : &quot;Method Not Allowed&quot;&#10;}" />
+              <option name="code" value="405" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Mon, 25 Mar 2024 09:42:27 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="server" />
+                    <option name="value" value="uvicorn" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="allow" />
+                    <option name="value" value="GET" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="31" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="971cdf57-37d4-4409-95e9-7c12bc5d43b1" />
+              <option name="message" value="Method Not Allowed" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;detail&quot;:&quot;Method Not Allowed&quot;}" />
+              <option name="size" value="31" />
+              <option name="time" value="3" />
+            </responseState>
+          </option>
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1711359759706" />
+          <option name="id" value="9ae2eb7f-b6ae-4a80-a03f-9fa9b9a9e71c" />
+          <option name="request">
+            <requestState>
+              <option name="auth">
+                <authState>
+                  <option name="type" value="NO_AUTH" />
+                </authState>
+              </option>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;&#9;&#9;&quot;first_name&quot;: &quot;Jamila&quot;,&#10;&#9;&#9;&quot;last_name&quot;: &quot;Ahmed&quot;,&#10;&#9;&#9;&quot;gender&quot;: &quot;female&quot;,&#10;&#9;&#9;&quot;roles&quot;: [&#10;&#9;&#9;&#9;&quot;student&quot;&#10;&#9;&#9;]&#10;&#9;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="99702b05-e4ee-4af0-8813-b8bac796a05c" />
+              <option name="method" value="POST" />
+              <option name="name" value="save user" />
+              <option name="url" value="http://localhost:8000/api/v1/users" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJkZXRhaWwiOiJOb3QgRm91bmQifQ==" />
+              <option name="bodyString" value="{&#10;  &quot;detail&quot; : &quot;Not Found&quot;&#10;}" />
+              <option name="code" value="404" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Mon, 25 Mar 2024 09:42:39 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="server" />
+                    <option name="value" value="uvicorn" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="22" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="9ae2eb7f-b6ae-4a80-a03f-9fa9b9a9e71c" />
+              <option name="message" value="Not Found" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;detail&quot;:&quot;Not Found&quot;}" />
+              <option name="size" value="22" />
+              <option name="time" value="1" />
+            </responseState>
+          </option>
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1711359770359" />
+          <option name="id" value="2cb55b4e-0be1-4804-9536-ce29c0035a14" />
+          <option name="request">
+            <requestState>
+              <option name="auth">
+                <authState>
+                  <option name="type" value="NO_AUTH" />
+                </authState>
+              </option>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;&#9;&#9;&quot;first_name&quot;: &quot;Jamila&quot;,&#10;&#9;&#9;&quot;last_name&quot;: &quot;Ahmed&quot;,&#10;&#9;&#9;&quot;gender&quot;: &quot;female&quot;,&#10;&#9;&#9;&quot;roles&quot;: [&#10;&#9;&#9;&#9;&quot;student&quot;&#10;&#9;&#9;]&#10;&#9;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="99702b05-e4ee-4af0-8813-b8bac796a05c" />
+              <option name="method" value="POST" />
+              <option name="name" value="save user" />
+              <option name="url" value="http://localhost:8000/api/v1/users" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJkZXRhaWwiOiJOb3QgRm91bmQifQ==" />
+              <option name="bodyString" value="{&#10;  &quot;detail&quot; : &quot;Not Found&quot;&#10;}" />
+              <option name="code" value="404" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Mon, 25 Mar 2024 09:42:49 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="server" />
+                    <option name="value" value="uvicorn" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="22" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="2cb55b4e-0be1-4804-9536-ce29c0035a14" />
+              <option name="message" value="Not Found" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;detail&quot;:&quot;Not Found&quot;}" />
+              <option name="size" value="22" />
+              <option name="time" value="2" />
+            </responseState>
+          </option>
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1711359800656" />
+          <option name="id" value="ce299492-8099-45e4-97d7-305ea5b72220" />
+          <option name="request">
+            <requestState>
+              <option name="auth">
+                <authState>
+                  <option name="type" value="NO_AUTH" />
+                </authState>
+              </option>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;&#9;&#9;&quot;first_name&quot;: &quot;Jamila&quot;,&#10;&#9;&#9;&quot;last_name&quot;: &quot;Ahmed&quot;,&#10;&#9;&#9;&quot;gender&quot;: &quot;female&quot;,&#10;&#9;&#9;&quot;roles&quot;: [&#10;&#9;&#9;&#9;&quot;student&quot;&#10;&#9;&#9;]&#10;&#9;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="99702b05-e4ee-4af0-8813-b8bac796a05c" />
+              <option name="method" value="POST" />
+              <option name="name" value="save user" />
+              <option name="url" value="http://localhost:8000/api/v1/users" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJkZXRhaWwiOiJOb3QgRm91bmQifQ==" />
+              <option name="bodyString" value="{&#10;  &quot;detail&quot; : &quot;Not Found&quot;&#10;}" />
+              <option name="code" value="404" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Mon, 25 Mar 2024 09:43:20 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="server" />
+                    <option name="value" value="uvicorn" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="22" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="ce299492-8099-45e4-97d7-305ea5b72220" />
+              <option name="message" value="Not Found" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;detail&quot;:&quot;Not Found&quot;}" />
+              <option name="size" value="22" />
+              <option name="time" value="2" />
+            </responseState>
+          </option>
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1711359898748" />
+          <option name="id" value="4af9537d-d945-48d0-a9ef-672c2d937096" />
+          <option name="request">
+            <requestState>
+              <option name="auth">
+                <authState>
+                  <option name="type" value="NO_AUTH" />
+                </authState>
+              </option>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;&#9;&#9;&quot;first_name&quot;: &quot;Jamila&quot;,&#10;&#9;&#9;&quot;last_name&quot;: &quot;Ahmed&quot;,&#10;&#9;&#9;&quot;gender&quot;: &quot;female&quot;,&#10;&#9;&#9;&quot;roles&quot;: [&#10;&#9;&#9;&#9;&quot;student&quot;&#10;&#9;&#9;]&#10;&#9;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="99702b05-e4ee-4af0-8813-b8bac796a05c" />
+              <option name="method" value="POST" />
+              <option name="name" value="save user" />
+              <option name="url" value="http://localhost:8000/api/v1/users" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="bnVsbA==" />
+              <option name="bodyString" value="null" />
+              <option name="code" value="200" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Mon, 25 Mar 2024 09:44:57 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="server" />
+                    <option name="value" value="uvicorn" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="4" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="4af9537d-d945-48d0-a9ef-672c2d937096" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="null" />
+              <option name="size" value="4" />
+              <option name="time" value="4" />
+            </responseState>
+          </option>
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1711359936258" />
+          <option name="id" value="d2d6fd85-e32e-451a-a044-ffeb5555da86" />
+          <option name="request">
+            <requestState>
+              <option name="auth">
+                <authState>
+                  <option name="type" value="NO_AUTH" />
+                </authState>
+              </option>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;&#9;&#9;&quot;first_name&quot;: &quot;Jamila&quot;,&#10;&#9;&#9;&quot;last_name&quot;: &quot;Ahmed&quot;,&#10;&#9;&#9;&quot;gender&quot;: &quot;female&quot;,&#10;&#9;&#9;&quot;roles&quot;: [&#10;&#9;&#9;&#9;&quot;student&quot;&#10;&#9;&#9;]&#10;&#9;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="99702b05-e4ee-4af0-8813-b8bac796a05c" />
+              <option name="method" value="POST" />
+              <option name="name" value="save user" />
+              <option name="url" value="http://localhost:8000/api/v1/users" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJpZCI6IjRiM2UzMjQ2LTlkMWQtNDI0Ny1iNzIxLTZjOTc0YjM5ZWY4OCIsIm1lc3NhZ2UiOiJVc2VyIHNhdmVkIHN1Y2Nlc3NmdWxseSJ9" />
+              <option name="bodyString" value="{&#10;  &quot;id&quot; : &quot;4b3e3246-9d1d-4247-b721-6c974b39ef88&quot;,&#10;  &quot;message&quot; : &quot;User saved successfully&quot;&#10;}" />
+              <option name="code" value="200" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Mon, 25 Mar 2024 09:45:36 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="server" />
+                    <option name="value" value="uvicorn" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="81" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="d2d6fd85-e32e-451a-a044-ffeb5555da86" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;id&quot;:&quot;4b3e3246-9d1d-4247-b721-6c974b39ef88&quot;,&quot;message&quot;:&quot;User saved successfully&quot;}" />
+              <option name="size" value="81" />
+              <option name="time" value="2" />
+            </responseState>
+          </option>
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1711359937973" />
+          <option name="id" value="ed324fd8-e55b-463f-b24a-be3541cf9ab1" />
+          <option name="request">
+            <requestState>
+              <option name="auth">
+                <authState>
+                  <option name="type" value="NO_AUTH" />
+                </authState>
+              </option>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;&#9;&#9;&quot;first_name&quot;: &quot;Jamila&quot;,&#10;&#9;&#9;&quot;last_name&quot;: &quot;Ahmed&quot;,&#10;&#9;&#9;&quot;gender&quot;: &quot;female&quot;,&#10;&#9;&#9;&quot;roles&quot;: [&#10;&#9;&#9;&#9;&quot;student&quot;&#10;&#9;&#9;]&#10;&#9;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="99702b05-e4ee-4af0-8813-b8bac796a05c" />
+              <option name="method" value="POST" />
+              <option name="name" value="save user" />
+              <option name="url" value="http://localhost:8000/api/v1/users" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJpZCI6IjRiM2UzMjQ2LTlkMWQtNDI0Ny1iNzIxLTZjOTc0YjM5ZWY4OCIsIm1lc3NhZ2UiOiJVc2VyIHNhdmVkIHN1Y2Nlc3NmdWxseSJ9" />
+              <option name="bodyString" value="{&#10;  &quot;id&quot; : &quot;4b3e3246-9d1d-4247-b721-6c974b39ef88&quot;,&#10;  &quot;message&quot; : &quot;User saved successfully&quot;&#10;}" />
+              <option name="code" value="200" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Mon, 25 Mar 2024 09:45:37 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="server" />
+                    <option name="value" value="uvicorn" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="81" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="ed324fd8-e55b-463f-b24a-be3541cf9ab1" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;id&quot;:&quot;4b3e3246-9d1d-4247-b721-6c974b39ef88&quot;,&quot;message&quot;:&quot;User saved successfully&quot;}" />
+              <option name="size" value="81" />
+              <option name="time" value="1" />
+            </responseState>
+          </option>
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1711359938837" />
+          <option name="id" value="5127fe95-cf38-4d50-97d3-a465bbd91979" />
+          <option name="request">
+            <requestState>
+              <option name="auth">
+                <authState>
+                  <option name="type" value="NO_AUTH" />
+                </authState>
+              </option>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;&#9;&#9;&quot;first_name&quot;: &quot;Jamila&quot;,&#10;&#9;&#9;&quot;last_name&quot;: &quot;Ahmed&quot;,&#10;&#9;&#9;&quot;gender&quot;: &quot;female&quot;,&#10;&#9;&#9;&quot;roles&quot;: [&#10;&#9;&#9;&#9;&quot;student&quot;&#10;&#9;&#9;]&#10;&#9;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="99702b05-e4ee-4af0-8813-b8bac796a05c" />
+              <option name="method" value="POST" />
+              <option name="name" value="save user" />
+              <option name="url" value="http://localhost:8000/api/v1/users" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJpZCI6IjRiM2UzMjQ2LTlkMWQtNDI0Ny1iNzIxLTZjOTc0YjM5ZWY4OCIsIm1lc3NhZ2UiOiJVc2VyIHNhdmVkIHN1Y2Nlc3NmdWxseSJ9" />
+              <option name="bodyString" value="{&#10;  &quot;id&quot; : &quot;4b3e3246-9d1d-4247-b721-6c974b39ef88&quot;,&#10;  &quot;message&quot; : &quot;User saved successfully&quot;&#10;}" />
+              <option name="code" value="200" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Mon, 25 Mar 2024 09:45:38 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="server" />
+                    <option name="value" value="uvicorn" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="81" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="5127fe95-cf38-4d50-97d3-a465bbd91979" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;id&quot;:&quot;4b3e3246-9d1d-4247-b721-6c974b39ef88&quot;,&quot;message&quot;:&quot;User saved successfully&quot;}" />
+              <option name="size" value="81" />
+              <option name="time" value="1" />
+            </responseState>
+          </option>
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1711359940156" />
+          <option name="id" value="74bf494d-aaa8-4d6f-b42b-f832dbee20e2" />
+          <option name="request">
+            <requestState>
+              <option name="auth">
+                <authState>
+                  <option name="type" value="NO_AUTH" />
+                </authState>
+              </option>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;&#9;&#9;&quot;first_name&quot;: &quot;Jamila&quot;,&#10;&#9;&#9;&quot;last_name&quot;: &quot;Ahmed&quot;,&#10;&#9;&#9;&quot;gender&quot;: &quot;female&quot;,&#10;&#9;&#9;&quot;roles&quot;: [&#10;&#9;&#9;&#9;&quot;student&quot;&#10;&#9;&#9;]&#10;&#9;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="99702b05-e4ee-4af0-8813-b8bac796a05c" />
+              <option name="method" value="POST" />
+              <option name="name" value="save user" />
+              <option name="url" value="http://localhost:8000/api/v1/users" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJpZCI6IjRiM2UzMjQ2LTlkMWQtNDI0Ny1iNzIxLTZjOTc0YjM5ZWY4OCIsIm1lc3NhZ2UiOiJVc2VyIHNhdmVkIHN1Y2Nlc3NmdWxseSJ9" />
+              <option name="bodyString" value="{&#10;  &quot;id&quot; : &quot;4b3e3246-9d1d-4247-b721-6c974b39ef88&quot;,&#10;  &quot;message&quot; : &quot;User saved successfully&quot;&#10;}" />
+              <option name="code" value="200" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Mon, 25 Mar 2024 09:45:40 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="server" />
+                    <option name="value" value="uvicorn" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="81" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="74bf494d-aaa8-4d6f-b42b-f832dbee20e2" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;id&quot;:&quot;4b3e3246-9d1d-4247-b721-6c974b39ef88&quot;,&quot;message&quot;:&quot;User saved successfully&quot;}" />
+              <option name="size" value="81" />
+              <option name="time" value="2" />
+            </responseState>
+          </option>
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1711373001155" />
+          <option name="id" value="bc2a7df4-4129-4a8e-9b9b-5bfdccbf727a" />
+          <option name="request">
+            <requestState>
+              <option name="auth">
+                <authState>
+                  <option name="type" value="NO_AUTH" />
+                </authState>
+              </option>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;&#9;&#9;&quot;first_name&quot;: &quot;Jamila&quot;,&#10;&#9;&#9;&quot;last_name&quot;: &quot;Ahmed&quot;,&#10;&#9;&#9;&quot;gender&quot;: &quot;female&quot;,&#10;&#9;&#9;&quot;roles&quot;: [&#10;&#9;&#9;&#9;&quot;student&quot;&#10;&#9;&#9;]&#10;&#9;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="99702b05-e4ee-4af0-8813-b8bac796a05c" />
+              <option name="method" value="POST" />
+              <option name="name" value="save user" />
+              <option name="url" value="http://localhost:8000/api/v1/users" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJpZCI6IjRlOTcxN2UwLTUzNjAtNGY4ZS05MzFkLTZkNzFjNzMxZTgyMSIsIm1lc3NhZ2UiOiJVc2VyIHNhdmVkIHN1Y2Nlc3NmdWxseSJ9" />
+              <option name="bodyString" value="{&#10;  &quot;id&quot; : &quot;4e9717e0-5360-4f8e-931d-6d71c731e821&quot;,&#10;  &quot;message&quot; : &quot;User saved successfully&quot;&#10;}" />
+              <option name="code" value="200" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Mon, 25 Mar 2024 13:23:20 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="server" />
+                    <option name="value" value="uvicorn" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="81" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="bc2a7df4-4129-4a8e-9b9b-5bfdccbf727a" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;id&quot;:&quot;4e9717e0-5360-4f8e-931d-6d71c731e821&quot;,&quot;message&quot;:&quot;User saved successfully&quot;}" />
+              <option name="size" value="81" />
+              <option name="time" value="4" />
+            </responseState>
+          </option>
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1711379175242" />
+          <option name="id" value="ebb3ab04-4266-4380-ba55-4696343e278a" />
+          <option name="request">
+            <requestState>
+              <option name="auth">
+                <authState>
+                  <option name="type" value="NO_AUTH" />
+                </authState>
+              </option>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;&#9;&#9;&quot;first_name&quot;: &quot;Jamila&quot;,&#10;&#9;&#9;&quot;last_name&quot;: &quot;Ahmed&quot;,&#10;&#9;&#9;&quot;gender&quot;: &quot;female&quot;,&#10;&#9;&#9;&quot;roles&quot;: [&#10;&#9;&#9;&#9;&quot;student&quot;&#10;&#9;&#9;]&#10;&#9;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="99702b05-e4ee-4af0-8813-b8bac796a05c" />
+              <option name="method" value="POST" />
+              <option name="name" value="save user" />
+              <option name="url" value="http://localhost:8000/api/v1/users" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJpZCI6IjRlOTcxN2UwLTUzNjAtNGY4ZS05MzFkLTZkNzFjNzMxZTgyMSIsIm1lc3NhZ2UiOiJVc2VyIHNhdmVkIHN1Y2Nlc3NmdWxseSJ9" />
+              <option name="bodyString" value="{&#10;  &quot;id&quot; : &quot;4e9717e0-5360-4f8e-931d-6d71c731e821&quot;,&#10;  &quot;message&quot; : &quot;User saved successfully&quot;&#10;}" />
+              <option name="code" value="200" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Mon, 25 Mar 2024 15:06:14 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="server" />
+                    <option name="value" value="uvicorn" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="81" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="ebb3ab04-4266-4380-ba55-4696343e278a" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;id&quot;:&quot;4e9717e0-5360-4f8e-931d-6d71c731e821&quot;,&quot;message&quot;:&quot;User saved successfully&quot;}" />
+              <option name="size" value="81" />
+              <option name="time" value="2" />
+            </responseState>
+          </option>
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1711379178114" />
+          <option name="id" value="d5196e96-8bd7-4b4e-8126-2ac95a44b4c8" />
+          <option name="request">
+            <requestState>
+              <option name="auth">
+                <authState>
+                  <option name="type" value="NO_AUTH" />
+                </authState>
+              </option>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;&#9;&#9;&quot;first_name&quot;: &quot;Jamila&quot;,&#10;&#9;&#9;&quot;last_name&quot;: &quot;Ahmed&quot;,&#10;&#9;&#9;&quot;gender&quot;: &quot;female&quot;,&#10;&#9;&#9;&quot;roles&quot;: [&#10;&#9;&#9;&#9;&quot;student&quot;&#10;&#9;&#9;]&#10;&#9;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="99702b05-e4ee-4af0-8813-b8bac796a05c" />
+              <option name="method" value="POST" />
+              <option name="name" value="save user" />
+              <option name="url" value="http://localhost:8000/api/v1/users" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJpZCI6IjRlOTcxN2UwLTUzNjAtNGY4ZS05MzFkLTZkNzFjNzMxZTgyMSIsIm1lc3NhZ2UiOiJVc2VyIHNhdmVkIHN1Y2Nlc3NmdWxseSJ9" />
+              <option name="bodyString" value="{&#10;  &quot;id&quot; : &quot;4e9717e0-5360-4f8e-931d-6d71c731e821&quot;,&#10;  &quot;message&quot; : &quot;User saved successfully&quot;&#10;}" />
+              <option name="code" value="200" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Mon, 25 Mar 2024 15:06:17 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="server" />
+                    <option name="value" value="uvicorn" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="81" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="d5196e96-8bd7-4b4e-8126-2ac95a44b4c8" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;id&quot;:&quot;4e9717e0-5360-4f8e-931d-6d71c731e821&quot;,&quot;message&quot;:&quot;User saved successfully&quot;}" />
+              <option name="size" value="81" />
+              <option name="time" value="2" />
+            </responseState>
+          </option>
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1711404850348" />
+          <option name="id" value="cd9995b3-0a99-44de-9dd8-0b2e27cbee51" />
+          <option name="request">
+            <requestState>
+              <option name="id" value="e095abdc-88db-41f3-98fb-1ac0506ca5c5" />
+              <option name="method" value="GET" />
+              <option name="name" value="fetch users" />
+              <option name="url" value="http://localhost:8000/users" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJkZXRhaWwiOiJOb3QgRm91bmQifQ==" />
+              <option name="bodyString" value="{&#10;  &quot;detail&quot; : &quot;Not Found&quot;&#10;}" />
+              <option name="code" value="404" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Mon, 25 Mar 2024 22:14:10 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="server" />
+                    <option name="value" value="uvicorn" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="22" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="cd9995b3-0a99-44de-9dd8-0b2e27cbee51" />
+              <option name="message" value="Not Found" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;detail&quot;:&quot;Not Found&quot;}" />
+              <option name="size" value="22" />
+              <option name="time" value="5" />
+            </responseState>
+          </option>
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1711404867855" />
+          <option name="id" value="4dbee0c5-f1c8-4619-8a56-e084c1a5224d" />
+          <option name="request">
+            <requestState>
+              <option name="id" value="e095abdc-88db-41f3-98fb-1ac0506ca5c5" />
+              <option name="method" value="GET" />
+              <option name="name" value="fetch users" />
+              <option name="url" value="http://localhost:8000/api/v1/users" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="W3siaWQiOiIxZWQxN2FlYy1hMGNmLTRhMTAtYTFlYi0xYzEyMDQ2MmZjZGUiLCJmaXJzdF9uYW1lIjoiSmFtaWxhIiwibGFzdF9uYW1lIjoiQWhtZWQiLCJtaWRkbGVfbmFtZSI6Ik5vYWgiLCJnZW5kZXIiOiJmZW1hbGUiLCJyb2xlcyI6WyJzdHVkZW50IiwidXNlciIsImFkbWluIl19LHsiaWQiOiIxZWQxN2FlYy1hMGNmLTRhMTAtYTFlYi0xYzEyMDQ2MmZjZGUiLCJmaXJzdF9uYW1lIjoiQWxleCIsImxhc3RfbmFtZSI6IkpvbmVzIiwibWlkZGxlX25hbWUiOm51bGwsImdlbmRlciI6ImZlbWFsZSIsInJvbGVzIjpbInN0dWRlbnQiXX1d" />
+              <option name="bodyString" value="[&#10;  {&#10;    &quot;id&quot; : &quot;1ed17aec-a0cf-4a10-a1eb-1c120462fcde&quot;,&#10;    &quot;first_name&quot; : &quot;Jamila&quot;,&#10;    &quot;last_name&quot; : &quot;Ahmed&quot;,&#10;    &quot;middle_name&quot; : &quot;Noah&quot;,&#10;    &quot;gender&quot; : &quot;female&quot;,&#10;    &quot;roles&quot; : [&#10;      &quot;student&quot;,&#10;      &quot;user&quot;,&#10;      &quot;admin&quot;&#10;    ]&#10;  },&#10;  {&#10;    &quot;id&quot; : &quot;1ed17aec-a0cf-4a10-a1eb-1c120462fcde&quot;,&#10;    &quot;first_name&quot; : &quot;Alex&quot;,&#10;    &quot;last_name&quot; : &quot;Jones&quot;,&#10;    &quot;middle_name&quot; : null,&#10;    &quot;gender&quot; : &quot;female&quot;,&#10;    &quot;roles&quot; : [&#10;      &quot;student&quot;&#10;    ]&#10;  }&#10;]" />
+              <option name="code" value="200" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Mon, 25 Mar 2024 22:14:27 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="server" />
+                    <option name="value" value="uvicorn" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="306" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="4dbee0c5-f1c8-4619-8a56-e084c1a5224d" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="[{&quot;id&quot;:&quot;1ed17aec-a0cf-4a10-a1eb-1c120462fcde&quot;,&quot;first_name&quot;:&quot;Jamila&quot;,&quot;last_name&quot;:&quot;Ahmed&quot;,&quot;middle_name&quot;:&quot;Noah&quot;,&quot;gender&quot;:&quot;female&quot;,&quot;roles&quot;:[&quot;student&quot;,&quot;user&quot;,&quot;admin&quot;]},{&quot;id&quot;:&quot;1ed17aec-a0cf-4a10-a1eb-1c120462fcde&quot;,&quot;first_name&quot;:&quot;Alex&quot;,&quot;last_name&quot;:&quot;Jones&quot;,&quot;middle_name&quot;:null,&quot;gender&quot;:&quot;female&quot;,&quot;roles&quot;:[&quot;student&quot;]}]" />
+              <option name="size" value="306" />
+              <option name="time" value="2" />
+            </responseState>
+          </option>
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1711404905455" />
+          <option name="id" value="e42c09ba-7ae6-44d6-878b-6f3c0adfcdec" />
+          <option name="request">
+            <requestState>
+              <option name="id" value="e095abdc-88db-41f3-98fb-1ac0506ca5c5" />
+              <option name="method" value="GET" />
+              <option name="name" value="fetch users" />
+              <option name="url" value="http://localhost:8000/api/v1/users" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="W3siaWQiOiIxZWQxN2FlYy1hMGNmLTRhMTAtYTFlYi0xYzEyMDQ2MmZjZGUiLCJmaXJzdF9uYW1lIjoiQWxleCIsImxhc3RfbmFtZSI6IkpvbmVzIiwibWlkZGxlX25hbWUiOm51bGwsImdlbmRlciI6ImZlbWFsZSIsInJvbGVzIjpbInN0dWRlbnQiXX1d" />
+              <option name="bodyString" value="[&#10;  {&#10;    &quot;id&quot; : &quot;1ed17aec-a0cf-4a10-a1eb-1c120462fcde&quot;,&#10;    &quot;first_name&quot; : &quot;Alex&quot;,&#10;    &quot;last_name&quot; : &quot;Jones&quot;,&#10;    &quot;middle_name&quot; : null,&#10;    &quot;gender&quot; : &quot;female&quot;,&#10;    &quot;roles&quot; : [&#10;      &quot;student&quot;&#10;    ]&#10;  }&#10;]" />
+              <option name="code" value="200" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Mon, 25 Mar 2024 22:15:04 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="server" />
+                    <option name="value" value="uvicorn" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="144" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="e42c09ba-7ae6-44d6-878b-6f3c0adfcdec" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="[{&quot;id&quot;:&quot;1ed17aec-a0cf-4a10-a1eb-1c120462fcde&quot;,&quot;first_name&quot;:&quot;Alex&quot;,&quot;last_name&quot;:&quot;Jones&quot;,&quot;middle_name&quot;:null,&quot;gender&quot;:&quot;female&quot;,&quot;roles&quot;:[&quot;student&quot;]}]" />
+              <option name="size" value="144" />
+              <option name="time" value="1" />
+            </responseState>
+          </option>
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1711405261251" />
+          <option name="id" value="fd6d185d-6c26-4953-a8a7-fb8f091799d3" />
+          <option name="request">
+            <requestState>
+              <option name="id" value="ce109d46-9f0c-4578-95a9-9ce9a36f13a8" />
+              <option name="method" value="DELETE" />
+              <option name="name" value="delete user" />
+              <option name="url" value="http://localhost:8000/api/v1/users/1ed17aec-a0cf-4a10-a1eb-1c120462fcde" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="bnVsbA==" />
+              <option name="bodyString" value="null" />
+              <option name="code" value="200" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Mon, 25 Mar 2024 22:21:00 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="server" />
+                    <option name="value" value="uvicorn" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="4" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="fd6d185d-6c26-4953-a8a7-fb8f091799d3" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="null" />
+              <option name="size" value="4" />
+              <option name="time" value="2" />
+            </responseState>
+          </option>
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1711405273070" />
+          <option name="id" value="f645d678-bb36-43c5-b16d-575690bfffa6" />
+          <option name="request">
+            <requestState>
+              <option name="id" value="ce109d46-9f0c-4578-95a9-9ce9a36f13a8" />
+              <option name="method" value="DELETE" />
+              <option name="name" value="delete user" />
+              <option name="url" value="http://localhost:8000/api/v1/users/1ed17aec-a0cf-4a10-a1eb-1c120462fcde" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJkZXRhaWwiOiJ1c2VyIHdpdGggaWQ6IDFlZDE3YWVjLWEwY2YtNGExMC1hMWViLTFjMTIwNDYyZmNkZSBkb2VzIG5vdCBleGlzdHMifQ==" />
+              <option name="bodyString" value="{&#10;  &quot;detail&quot; : &quot;user with id: 1ed17aec-a0cf-4a10-a1eb-1c120462fcde does not exists&quot;&#10;}" />
+              <option name="code" value="404" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Mon, 25 Mar 2024 22:21:12 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="server" />
+                    <option name="value" value="uvicorn" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="79" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="f645d678-bb36-43c5-b16d-575690bfffa6" />
+              <option name="message" value="Not Found" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;detail&quot;:&quot;user with id: 1ed17aec-a0cf-4a10-a1eb-1c120462fcde does not exists&quot;}" />
+              <option name="size" value="79" />
+              <option name="time" value="1" />
+            </responseState>
+          </option>
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1711423085565" />
+          <option name="id" value="299a412e-4a32-40d5-a01c-61262bcb2007" />
+          <option name="request">
+            <requestState>
+              <option name="id" value="e095abdc-88db-41f3-98fb-1ac0506ca5c5" />
+              <option name="method" value="GET" />
+              <option name="name" value="fetch users" />
+              <option name="url" value="http://localhost:8000/api/v1/users" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="W3siaWQiOiIxZWQxN2FlYy1hMGNmLTRhMTAtYTFlYi0xYzEyMDQ2MmZjZGUiLCJmaXJzdF9uYW1lIjoiSmFtaWxhIiwibGFzdF9uYW1lIjoiQWhtZWQiLCJtaWRkbGVfbmFtZSI6Ik5vYWgiLCJnZW5kZXIiOiJmZW1hbGUiLCJyb2xlcyI6WyJzdHVkZW50IiwidXNlciIsImFkbWluIl19LHsiaWQiOiIxZWQxN2FlYy1hMGNmLTRhMTAtYTFlYi0xYzEyMDQ2MmZjZGUiLCJmaXJzdF9uYW1lIjoiQWxleCIsImxhc3RfbmFtZSI6IkpvbmVzIiwibWlkZGxlX25hbWUiOm51bGwsImdlbmRlciI6ImZlbWFsZSIsInJvbGVzIjpbInN0dWRlbnQiXX1d" />
+              <option name="bodyString" value="[&#10;  {&#10;    &quot;id&quot; : &quot;1ed17aec-a0cf-4a10-a1eb-1c120462fcde&quot;,&#10;    &quot;first_name&quot; : &quot;Jamila&quot;,&#10;    &quot;last_name&quot; : &quot;Ahmed&quot;,&#10;    &quot;middle_name&quot; : &quot;Noah&quot;,&#10;    &quot;gender&quot; : &quot;female&quot;,&#10;    &quot;roles&quot; : [&#10;      &quot;student&quot;,&#10;      &quot;user&quot;,&#10;      &quot;admin&quot;&#10;    ]&#10;  },&#10;  {&#10;    &quot;id&quot; : &quot;1ed17aec-a0cf-4a10-a1eb-1c120462fcde&quot;,&#10;    &quot;first_name&quot; : &quot;Alex&quot;,&#10;    &quot;last_name&quot; : &quot;Jones&quot;,&#10;    &quot;middle_name&quot; : null,&#10;    &quot;gender&quot; : &quot;female&quot;,&#10;    &quot;roles&quot; : [&#10;      &quot;student&quot;&#10;    ]&#10;  }&#10;]" />
+              <option name="code" value="200" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Tue, 26 Mar 2024 03:18:05 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="server" />
+                    <option name="value" value="uvicorn" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="306" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="299a412e-4a32-40d5-a01c-61262bcb2007" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="[{&quot;id&quot;:&quot;1ed17aec-a0cf-4a10-a1eb-1c120462fcde&quot;,&quot;first_name&quot;:&quot;Jamila&quot;,&quot;last_name&quot;:&quot;Ahmed&quot;,&quot;middle_name&quot;:&quot;Noah&quot;,&quot;gender&quot;:&quot;female&quot;,&quot;roles&quot;:[&quot;student&quot;,&quot;user&quot;,&quot;admin&quot;]},{&quot;id&quot;:&quot;1ed17aec-a0cf-4a10-a1eb-1c120462fcde&quot;,&quot;first_name&quot;:&quot;Alex&quot;,&quot;last_name&quot;:&quot;Jones&quot;,&quot;middle_name&quot;:null,&quot;gender&quot;:&quot;female&quot;,&quot;roles&quot;:[&quot;student&quot;]}]" />
+              <option name="size" value="306" />
+              <option name="time" value="4" />
+            </responseState>
+          </option>
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1711423224706" />
+          <option name="id" value="6bed8947-f99c-4fc8-a8b8-9c64cedc9abb" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;    &quot;first_name&quot;: &quot;Jamila&quot;,&#10;    &quot;last_name&quot;: &quot;Ahmed&quot;,&#10;    &quot;middle_name&quot;: &quot;Hello&quot;,&#10;    &quot;roles&quot;: [&#10;      &quot;student&quot;&#10;    ]&#10;  }" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="28bfd26c-7970-487f-96c7-eec72131d580" />
+              <option name="method" value="PUT" />
+              <option name="name" value="update user" />
+              <option name="url" value="http://localhost:8000/api/v1/users/1ed17aec-a0cf-4a10-a1eb-1c120462fcde" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="SW50ZXJuYWwgU2VydmVyIEVycm9y" />
+              <option name="bodyString" value="Internal Server Error" />
+              <option name="code" value="500" />
+              <option name="contentType" value="text/plain; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Tue, 26 Mar 2024 03:20:23 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="server" />
+                    <option name="value" value="uvicorn" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="21" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="text/plain; charset=utf-8" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="6bed8947-f99c-4fc8-a8b8-9c64cedc9abb" />
+              <option name="message" value="Internal Server Error" />
+              <option name="prettyResponseType" value="TEXT" />
+              <option name="rawBodyString" value="Internal Server Error" />
+              <option name="size" value="21" />
+              <option name="time" value="33" />
+            </responseState>
+          </option>
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1711423301372" />
+          <option name="id" value="28a2c742-0f08-4baf-8320-6088ca2bf387" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;    &quot;first_name&quot;: &quot;Jamila&quot;,&#10;    &quot;last_name&quot;: &quot;Ahmed&quot;,&#10;    &quot;middle_name&quot;: &quot;Hello&quot;,&#10;    &quot;roles&quot;: [&#10;      &quot;student&quot;&#10;    ]&#10;  }" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="28bfd26c-7970-487f-96c7-eec72131d580" />
+              <option name="method" value="PUT" />
+              <option name="name" value="update user" />
+              <option name="url" value="http://localhost:8000/api/v1/users/1ed17aec-a0cf-4a10-a1eb-1c120462fcde" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="SW50ZXJuYWwgU2VydmVyIEVycm9y" />
+              <option name="bodyString" value="Internal Server Error" />
+              <option name="code" value="500" />
+              <option name="contentType" value="text/plain; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Tue, 26 Mar 2024 03:21:40 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="server" />
+                    <option name="value" value="uvicorn" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="21" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="text/plain; charset=utf-8" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="28a2c742-0f08-4baf-8320-6088ca2bf387" />
+              <option name="message" value="Internal Server Error" />
+              <option name="prettyResponseType" value="TEXT" />
+              <option name="rawBodyString" value="Internal Server Error" />
+              <option name="size" value="21" />
+              <option name="time" value="17" />
+            </responseState>
+          </option>
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1711423302854" />
+          <option name="id" value="f5e973c6-7497-45f0-bb00-b9cdcdc43c80" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;    &quot;first_name&quot;: &quot;Jamila&quot;,&#10;    &quot;last_name&quot;: &quot;Ahmed&quot;,&#10;    &quot;middle_name&quot;: &quot;Hello&quot;,&#10;    &quot;roles&quot;: [&#10;      &quot;student&quot;&#10;    ]&#10;  }" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="28bfd26c-7970-487f-96c7-eec72131d580" />
+              <option name="method" value="PUT" />
+              <option name="name" value="update user" />
+              <option name="url" value="http://localhost:8000/api/v1/users/1ed17aec-a0cf-4a10-a1eb-1c120462fcde" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="SW50ZXJuYWwgU2VydmVyIEVycm9y" />
+              <option name="bodyString" value="Internal Server Error" />
+              <option name="code" value="500" />
+              <option name="contentType" value="text/plain; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Tue, 26 Mar 2024 03:21:42 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="server" />
+                    <option name="value" value="uvicorn" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="21" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="text/plain; charset=utf-8" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="f5e973c6-7497-45f0-bb00-b9cdcdc43c80" />
+              <option name="message" value="Internal Server Error" />
+              <option name="prettyResponseType" value="TEXT" />
+              <option name="rawBodyString" value="Internal Server Error" />
+              <option name="size" value="21" />
+              <option name="time" value="17" />
+            </responseState>
+          </option>
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1711423303706" />
+          <option name="id" value="84ac921b-6758-46f7-a624-c8e1bbdccd77" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;    &quot;first_name&quot;: &quot;Jamila&quot;,&#10;    &quot;last_name&quot;: &quot;Ahmed&quot;,&#10;    &quot;middle_name&quot;: &quot;Hello&quot;,&#10;    &quot;roles&quot;: [&#10;      &quot;student&quot;&#10;    ]&#10;  }" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="28bfd26c-7970-487f-96c7-eec72131d580" />
+              <option name="method" value="PUT" />
+              <option name="name" value="update user" />
+              <option name="url" value="http://localhost:8000/api/v1/users/1ed17aec-a0cf-4a10-a1eb-1c120462fcde" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="SW50ZXJuYWwgU2VydmVyIEVycm9y" />
+              <option name="bodyString" value="Internal Server Error" />
+              <option name="code" value="500" />
+              <option name="contentType" value="text/plain; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Tue, 26 Mar 2024 03:21:43 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="server" />
+                    <option name="value" value="uvicorn" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="21" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="text/plain; charset=utf-8" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="84ac921b-6758-46f7-a624-c8e1bbdccd77" />
+              <option name="message" value="Internal Server Error" />
+              <option name="prettyResponseType" value="TEXT" />
+              <option name="rawBodyString" value="Internal Server Error" />
+              <option name="size" value="21" />
+              <option name="time" value="17" />
+            </responseState>
+          </option>
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1711423304169" />
+          <option name="id" value="65b37735-ccb1-492b-b4b5-557d3e0f4715" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;    &quot;first_name&quot;: &quot;Jamila&quot;,&#10;    &quot;last_name&quot;: &quot;Ahmed&quot;,&#10;    &quot;middle_name&quot;: &quot;Hello&quot;,&#10;    &quot;roles&quot;: [&#10;      &quot;student&quot;&#10;    ]&#10;  }" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="28bfd26c-7970-487f-96c7-eec72131d580" />
+              <option name="method" value="PUT" />
+              <option name="name" value="update user" />
+              <option name="url" value="http://localhost:8000/api/v1/users/1ed17aec-a0cf-4a10-a1eb-1c120462fcde" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="SW50ZXJuYWwgU2VydmVyIEVycm9y" />
+              <option name="bodyString" value="Internal Server Error" />
+              <option name="code" value="500" />
+              <option name="contentType" value="text/plain; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Tue, 26 Mar 2024 03:21:43 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="server" />
+                    <option name="value" value="uvicorn" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="21" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="text/plain; charset=utf-8" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="65b37735-ccb1-492b-b4b5-557d3e0f4715" />
+              <option name="message" value="Internal Server Error" />
+              <option name="prettyResponseType" value="TEXT" />
+              <option name="rawBodyString" value="Internal Server Error" />
+              <option name="size" value="21" />
+              <option name="time" value="15" />
+            </responseState>
+          </option>
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1711423304384" />
+          <option name="id" value="eecce480-b05c-493e-8e46-00cc803fe5c9" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;    &quot;first_name&quot;: &quot;Jamila&quot;,&#10;    &quot;last_name&quot;: &quot;Ahmed&quot;,&#10;    &quot;middle_name&quot;: &quot;Hello&quot;,&#10;    &quot;roles&quot;: [&#10;      &quot;student&quot;&#10;    ]&#10;  }" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="28bfd26c-7970-487f-96c7-eec72131d580" />
+              <option name="method" value="PUT" />
+              <option name="name" value="update user" />
+              <option name="url" value="http://localhost:8000/api/v1/users/1ed17aec-a0cf-4a10-a1eb-1c120462fcde" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="SW50ZXJuYWwgU2VydmVyIEVycm9y" />
+              <option name="bodyString" value="Internal Server Error" />
+              <option name="code" value="500" />
+              <option name="contentType" value="text/plain; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Tue, 26 Mar 2024 03:21:43 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="server" />
+                    <option name="value" value="uvicorn" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="21" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="text/plain; charset=utf-8" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="eecce480-b05c-493e-8e46-00cc803fe5c9" />
+              <option name="message" value="Internal Server Error" />
+              <option name="prettyResponseType" value="TEXT" />
+              <option name="rawBodyString" value="Internal Server Error" />
+              <option name="size" value="21" />
+              <option name="time" value="16" />
+            </responseState>
+          </option>
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1711423458120" />
+          <option name="id" value="a5e194d1-082a-4854-aa7d-fb46888bcb6b" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;    &quot;first_name&quot;: &quot;Jamila&quot;,&#10;    &quot;last_name&quot;: &quot;Ahmed&quot;,&#10;    &quot;middle_name&quot;: &quot;Hello&quot;,&#10;    &quot;roles&quot;: [&#10;      &quot;student&quot;&#10;    ]&#10;  }" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="28bfd26c-7970-487f-96c7-eec72131d580" />
+              <option name="method" value="PUT" />
+              <option name="name" value="update user" />
+              <option name="url" value="http://localhost:8000/api/v1/users/1ed17aec-a0cf-4a10-a1eb-1c120462fcde" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="SW50ZXJuYWwgU2VydmVyIEVycm9y" />
+              <option name="bodyString" value="Internal Server Error" />
+              <option name="code" value="500" />
+              <option name="contentType" value="text/plain; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Tue, 26 Mar 2024 03:24:17 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="server" />
+                    <option name="value" value="uvicorn" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="21" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="text/plain; charset=utf-8" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="a5e194d1-082a-4854-aa7d-fb46888bcb6b" />
+              <option name="message" value="Internal Server Error" />
+              <option name="prettyResponseType" value="TEXT" />
+              <option name="rawBodyString" value="Internal Server Error" />
+              <option name="size" value="21" />
+              <option name="time" value="16" />
+            </responseState>
+          </option>
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1711423471908" />
+          <option name="id" value="54c06378-c96f-4a3d-907b-193984070e01" />
+          <option name="request">
+            <requestState>
+              <option name="id" value="e095abdc-88db-41f3-98fb-1ac0506ca5c5" />
+              <option name="method" value="GET" />
+              <option name="name" value="fetch users" />
+              <option name="url" value="http://localhost:8000/api/v1/users" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="W3siaWQiOiIxZWQxN2FlYy1hMGNmLTRhMTAtYTFlYi0xYzEyMDQ2MmZjZGUiLCJmaXJzdF9uYW1lIjoiSmFtaWxhIiwibGFzdF9uYW1lIjoiQWhtZWQiLCJtaWRkbGVfbmFtZSI6Ik5vYWgiLCJnZW5kZXIiOiJmZW1hbGUiLCJyb2xlcyI6WyJzdHVkZW50IiwidXNlciIsImFkbWluIl19LHsiaWQiOiIxZWQxN2FlYy1hMGNmLTRhMTAtYTFlYi0xYzEyMDQ2MmZjZGUiLCJmaXJzdF9uYW1lIjoiQWxleCIsImxhc3RfbmFtZSI6IkpvbmVzIiwibWlkZGxlX25hbWUiOm51bGwsImdlbmRlciI6ImZlbWFsZSIsInJvbGVzIjpbInN0dWRlbnQiXX1d" />
+              <option name="bodyString" value="[&#10;  {&#10;    &quot;id&quot; : &quot;1ed17aec-a0cf-4a10-a1eb-1c120462fcde&quot;,&#10;    &quot;first_name&quot; : &quot;Jamila&quot;,&#10;    &quot;last_name&quot; : &quot;Ahmed&quot;,&#10;    &quot;middle_name&quot; : &quot;Noah&quot;,&#10;    &quot;gender&quot; : &quot;female&quot;,&#10;    &quot;roles&quot; : [&#10;      &quot;student&quot;,&#10;      &quot;user&quot;,&#10;      &quot;admin&quot;&#10;    ]&#10;  },&#10;  {&#10;    &quot;id&quot; : &quot;1ed17aec-a0cf-4a10-a1eb-1c120462fcde&quot;,&#10;    &quot;first_name&quot; : &quot;Alex&quot;,&#10;    &quot;last_name&quot; : &quot;Jones&quot;,&#10;    &quot;middle_name&quot; : null,&#10;    &quot;gender&quot; : &quot;female&quot;,&#10;    &quot;roles&quot; : [&#10;      &quot;student&quot;&#10;    ]&#10;  }&#10;]" />
+              <option name="code" value="200" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Tue, 26 Mar 2024 03:24:31 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="server" />
+                    <option name="value" value="uvicorn" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="306" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="54c06378-c96f-4a3d-907b-193984070e01" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="[{&quot;id&quot;:&quot;1ed17aec-a0cf-4a10-a1eb-1c120462fcde&quot;,&quot;first_name&quot;:&quot;Jamila&quot;,&quot;last_name&quot;:&quot;Ahmed&quot;,&quot;middle_name&quot;:&quot;Noah&quot;,&quot;gender&quot;:&quot;female&quot;,&quot;roles&quot;:[&quot;student&quot;,&quot;user&quot;,&quot;admin&quot;]},{&quot;id&quot;:&quot;1ed17aec-a0cf-4a10-a1eb-1c120462fcde&quot;,&quot;first_name&quot;:&quot;Alex&quot;,&quot;last_name&quot;:&quot;Jones&quot;,&quot;middle_name&quot;:null,&quot;gender&quot;:&quot;female&quot;,&quot;roles&quot;:[&quot;student&quot;]}]" />
+              <option name="size" value="306" />
+              <option name="time" value="2" />
+            </responseState>
+          </option>
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1711423528325" />
+          <option name="id" value="0e24da74-fde0-4728-8932-6f8ca2d77e1f" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;    &quot;first_name&quot;: &quot;Jamila&quot;,&#10;    &quot;last_name&quot;: &quot;Ahmed&quot;,&#10;    &quot;roles&quot;: [&#10;      &quot;student&quot;&#10;    ]&#10;  }" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="28bfd26c-7970-487f-96c7-eec72131d580" />
+              <option name="method" value="PUT" />
+              <option name="name" value="update user" />
+              <option name="url" value="http://localhost:8000/api/v1/users/1ed17aec-a0cf-4a10-a1eb-1c120462fcde" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJkZXRhaWwiOlt7InR5cGUiOiJtaXNzaW5nIiwibG9jIjpbImJvZHkiLCJtaWRkbGVfbmFtZSJdLCJtc2ciOiJGaWVsZCByZXF1aXJlZCIsImlucHV0Ijp7ImZpcnN0X25hbWUiOiJKYW1pbGEiLCJsYXN0X25hbWUiOiJBaG1lZCIsInJvbGVzIjpbInN0dWRlbnQiXX0sInVybCI6Imh0dHBzOi8vZXJyb3JzLnB5ZGFudGljLmRldi8yLjYvdi9taXNzaW5nIn1dfQ==" />
+              <option name="bodyString" value="{&#10;  &quot;detail&quot; : [&#10;    {&#10;      &quot;type&quot; : &quot;missing&quot;,&#10;      &quot;loc&quot; : [&#10;        &quot;body&quot;,&#10;        &quot;middle_name&quot;&#10;      ],&#10;      &quot;msg&quot; : &quot;Field required&quot;,&#10;      &quot;input&quot; : {&#10;        &quot;first_name&quot; : &quot;Jamila&quot;,&#10;        &quot;last_name&quot; : &quot;Ahmed&quot;,&#10;        &quot;roles&quot; : [&#10;          &quot;student&quot;&#10;        ]&#10;      },&#10;      &quot;url&quot; : &quot;https://errors.pydantic.dev/2.6/v/missing&quot;&#10;    }&#10;  ]&#10;}" />
+              <option name="code" value="422" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Tue, 26 Mar 2024 03:25:27 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="server" />
+                    <option name="value" value="uvicorn" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="205" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="0e24da74-fde0-4728-8932-6f8ca2d77e1f" />
+              <option name="message" value="Unprocessable Entity" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;detail&quot;:[{&quot;type&quot;:&quot;missing&quot;,&quot;loc&quot;:[&quot;body&quot;,&quot;middle_name&quot;],&quot;msg&quot;:&quot;Field required&quot;,&quot;input&quot;:{&quot;first_name&quot;:&quot;Jamila&quot;,&quot;last_name&quot;:&quot;Ahmed&quot;,&quot;roles&quot;:[&quot;student&quot;]},&quot;url&quot;:&quot;https://errors.pydantic.dev/2.6/v/missing&quot;}]}" />
+              <option name="size" value="205" />
+              <option name="time" value="3" />
+            </responseState>
+          </option>
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1711423589281" />
+          <option name="id" value="db423a49-16fb-4ea9-8ee3-6ce3931a8725" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;    &quot;first_name&quot;: &quot;Jamila&quot;,&#10;    &quot;last_name&quot;: &quot;Ahmed&quot;,&#10;    &quot;middle_name&quot;: &quot;Hello&quot;,&#10;    &quot;roles&quot;: [&#10;      &quot;student&quot;&#10;    ]&#10;  }" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="28bfd26c-7970-487f-96c7-eec72131d580" />
+              <option name="method" value="PUT" />
+              <option name="name" value="update user" />
+              <option name="url" value="http://localhost:8000/api/v1/users/1ed17aec-a0cf-4a10-a1eb-1c120462fcde" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="SW50ZXJuYWwgU2VydmVyIEVycm9y" />
+              <option name="bodyString" value="Internal Server Error" />
+              <option name="code" value="500" />
+              <option name="contentType" value="text/plain; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Tue, 26 Mar 2024 03:26:28 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="server" />
+                    <option name="value" value="uvicorn" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="21" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="text/plain; charset=utf-8" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="db423a49-16fb-4ea9-8ee3-6ce3931a8725" />
+              <option name="message" value="Internal Server Error" />
+              <option name="prettyResponseType" value="TEXT" />
+              <option name="rawBodyString" value="Internal Server Error" />
+              <option name="size" value="21" />
+              <option name="time" value="9" />
+            </responseState>
+          </option>
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1711438412738" />
+          <option name="id" value="2fab275b-6385-4173-8b7f-1c327f60aff0" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;    &quot;first_name&quot;: &quot;Jamila&quot;,&#10;    &quot;last_name&quot;: &quot;Ahmed&quot;,&#10;    &quot;middle_name&quot;: &quot;Hello&quot;,&#10;    &quot;roles&quot;: [&#10;      &quot;student&quot;&#10;    ]&#10;  }" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="28bfd26c-7970-487f-96c7-eec72131d580" />
+              <option name="method" value="PUT" />
+              <option name="name" value="update user" />
+              <option name="url" value="http://localhost:8000/api/v1/users/1ed17aec-a0cf-4a10-a1eb-1c120462fcde" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="SW50ZXJuYWwgU2VydmVyIEVycm9y" />
+              <option name="bodyString" value="Internal Server Error" />
+              <option name="code" value="500" />
+              <option name="contentType" value="text/plain; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Tue, 26 Mar 2024 07:33:32 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="server" />
+                    <option name="value" value="uvicorn" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="21" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="text/plain; charset=utf-8" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="2fab275b-6385-4173-8b7f-1c327f60aff0" />
+              <option name="message" value="Internal Server Error" />
+              <option name="prettyResponseType" value="TEXT" />
+              <option name="rawBodyString" value="Internal Server Error" />
+              <option name="size" value="21" />
+              <option name="time" value="16" />
+            </responseState>
+          </option>
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1711438496370" />
+          <option name="id" value="aca01d38-8ade-47cb-8397-af648f6024f7" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;    &quot;first_name&quot;: &quot;Jamila&quot;,&#10;    &quot;last_name&quot;: &quot;Ahmed&quot;,&#10;    &quot;middle_name&quot;: &quot;Hello&quot;,&#10;    &quot;roles&quot;: [&#10;      &quot;student&quot;&#10;    ]&#10;  }" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="28bfd26c-7970-487f-96c7-eec72131d580" />
+              <option name="method" value="PUT" />
+              <option name="name" value="update user" />
+              <option name="url" value="http://localhost:8000/api/v1/users/1ed17aec-a0cf-4a10-a1eb-1c120462fcde" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="bnVsbA==" />
+              <option name="bodyString" value="null" />
+              <option name="code" value="200" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Tue, 26 Mar 2024 07:34:55 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="server" />
+                    <option name="value" value="uvicorn" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="4" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="aca01d38-8ade-47cb-8397-af648f6024f7" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="null" />
+              <option name="size" value="4" />
+              <option name="time" value="2" />
+            </responseState>
+          </option>
+        </requestHistoryState>
+      </list>
+    </option>
+  </component>
+</project>
